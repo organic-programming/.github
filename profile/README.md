@@ -1,9 +1,5 @@
 ![A .proto is all you need – Organic Programming](op-proto.jpg)
 
-*"Calculemus!"*
-
-# Organic Programming
-
 A bio-inspired, Unix-inspired paradigm for a hybrid human–agent world
 where legacy code coexists with new code, machines compose with machines,
 and humans orchestrate the whole.
