@@ -12,6 +12,6 @@ and humans orchestrate the whole.
 naturally interoperable. Legacy code, new code, humans, agents: all speak
 the same interface.
 
-👉 **Read the full specification: [Seed](https://github.com/organic-programming/seed)**
+👉 **[Seed](https://github.com/organic-programming/seed)**
 
-© 2026 Benoit Pereira da Silva. All rights reserved.
+[© 2026 Benoit Pereira da Silva](https://pereira-da-silva.com/en/). All rights reserved.
