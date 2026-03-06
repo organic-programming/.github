@@ -1,4 +1,4 @@
-![A .proto is all you need – Organic Programming](op-proto.jpg)
+![A .proto is all you need – Organic Programming](https://raw.githubusercontent.com/organic-programming/.github/master/profile/op-proto.jpg)
 
 A bio-inspired, Unix-inspired paradigm for a hybrid human–agent world
 where legacy code coexists with new code, machines compose with machines,
