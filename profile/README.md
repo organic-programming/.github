@@ -11,8 +11,6 @@ and humans orchestrate the whole.
 3. **CLI** — a terminal bridge for humans, scripts, and CI
 4. **Tests** — the executable proof that the contract holds
 
-Legacy code, new code, humans, agents: same interface, every facet.
-
 👉 **[Seed](https://github.com/organic-programming/seed)**
 
 [© 2026 Benoit Pereira da Silva](https://pereira-da-silva.com/en/). All rights reserved.
